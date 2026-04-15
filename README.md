@@ -22,6 +22,6 @@ Welcome to the **SafePass-Public** repository for Android releases! This reposit
 
 Get the latest version of SafePass directly from our GitHub releases! The link below will automatically download the very latest version:
 
-🔗 **[Download Latest SafePass APK](https://github.com/atul-k-dev/SafePass-Public/releases/latest/download/safepass.apk)**
+🔗 **[Download Latest SafePass APK](https://github.com/atul-k-dev/SafePass-Public/releases/latest/safepass.apk)**
 
 Or visit our [Releases Page](https://github.com/atul-k-dev/SafePass-Public/releases) to view changelogs and download specific previous versions.
